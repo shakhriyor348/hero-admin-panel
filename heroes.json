@@ -1,0 +1,60 @@
+{
+  "heroes": [
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": "e62f4c94-b9a6-4599-b57c-5cf9e05f8374",
+      "name": "aa",
+      "description": "aa",
+      "element": "water"
+    },
+    {
+      "id": "e34f100f-2cc4-4150-8380-33a03d8d4ebd",
+      "name": "aa",
+      "description": "aa",
+      "element": "earth"
+    },
+    {
+      "id": "6b26daea-0854-4ec9-ab58-ca89bf34e48c",
+      "name": "asd",
+      "description": "www",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
